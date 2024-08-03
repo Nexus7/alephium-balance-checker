@@ -1,0 +1,4 @@
+/* styles/input.css */
+.placeholder-black::placeholder {
+    @apply text-black;
+  }
